@@ -13,6 +13,6 @@ function hideplayer(){
           $('.player').html('<img src="https://ae01.alicdn.com/kf/HTB1f6xDSIbpK1RjSZFyq6x_qFXaV.jpg" height="450px" width="100%" />');
       }  
   }  
-	
+	var hh =1;
 }
 hideplayer();
