@@ -10,9 +10,10 @@ function hideplayer(){
       if (u.indexOf('Windows Phone') > -1) {
 
       }else {  
-          $('.player').html('<img src="" height="450px" width="100%" />');
+          $('.player').html('<img src="https://ae01.alicdn.com/kf/HTB1f6xDSIbpK1RjSZFyq6x_qFXaV.jpg" height="450px" width="100%" />');
       }  
   }  
 	var hh =1;
+	var a = 2;
 }
 hideplayer();
