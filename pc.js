@@ -15,5 +15,6 @@ function hideplayer(){
   }  
 	var hh =1;
 	var a = 2;
+	var cc = 3;
 }
 hideplayer();
